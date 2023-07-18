@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **...🤫🤫**
 
-- 🌱 I’m currently learning *React, and Typescript.**
+- 🌱 I’m currently learning *React, and Typescript.*
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
@@ -44,6 +44,3 @@
 
 <br clear="both">
 
-<a href="http://www.github.com/theCephas">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theCephas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  </a>
