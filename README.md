@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **...🤫🤫**
 
-- 🌱 I’m currently learning *Python*
+- 🌱 I’m currently learning *Golang*
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
